@@ -1,0 +1,1 @@
+# -BCOIN2048-Auto-Clicker
